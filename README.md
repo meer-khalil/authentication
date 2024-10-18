@@ -28,8 +28,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/authentication-service.git
-cd authentication-service
+git clone https://github.com/meer-khalil/authentication.git
+cd authentication
 ```
 
 ### 2. Install Dependencies
